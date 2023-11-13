@@ -99,3 +99,7 @@ Build at: 2023-11-13T03:39:12.238Z - Hash: a6ad494a2350b452 - Time: 18160ms
 
 
 √ Compiled successfully.
+
+
+important 
+ $env:Path += "C:\Users\jappsb23\AppData\Roaming\npm"
